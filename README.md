@@ -1,34 +1,24 @@
-# How to answer 
 
-Please do not fork the repository and do not do pull request
+![alt text](https://github.com/eduardevs/Test-Java-Scala/blob/main/particeep-logo-custom.png?raw=true)
 
-Follow this path
+# TEST PARTICEEP
 
-* clone the repository
-* write your answer
-* send us a link to your repository
+### Message to the team:
 
+Hello there 👋
+
+I've enjoyed this test and i hope to work with you guys!
+
+I am currently looking for an internship to complete my master's in software architecture at ESGI and would be thrilled to have the opportunity to join your team and contribute my skills.
+ 
+# Description:
+
+- This was made with Java to evaluate my skills with this language.
 
 # Dependancies
 
-We really like functionnal programming that's why we use [vavr](https://www.vavr.io/) in the test
-We only use a fraction of it
+[vavr](https://www.vavr.io/)
 
 * [List](https://docs.vavr.io/#_list)
 * [Option](https://docs.vavr.io/#_option)
 * [Tuple](https://docs.vavr.io/#_tuples)
-
-# How to run
-
-We're a scala shop so this is how we will run the code
-This is not mandatory for the test, you can use maven / graddle / other...
-
-* git clone
-* install [sbt](https://www.scala-sbt.org/)
-* run this command
-
-```
-cd /some_path/java-interview
-sbt clean update compile
-sbt test
-```
